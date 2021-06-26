@@ -15,7 +15,7 @@ Socials : [![Linkedin](https://img.shields.io/badge/-Yuvraj-0e76a8?style=flat-sq
 ### Languages and Tools:
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://images.app.goo.gl/jbc8t5tfQvb6nMFH6" alt="firebase"></code>
+<code><img height="27" src="https://firebasestorage.googleapis.com/v0/b/clone1-slack.appspot.com/o/firebase%20logo.png?alt=media&token=2c639bcc-9bc6-4ea1-86cb-b63981e7303f" alt="firebase"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
