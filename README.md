@@ -1,4 +1,4 @@
-###<h2 align='center'>Hi there 👋I am Yuvraj Singh Tomar✨</h2>
+<h2 align='center'>Hi there 👋I am Yuvraj Singh Tomar✨</h2>
 <h4 align='center'>A Web Developer possessing profound knowledge and understanding of Machine Learning and Data Structures looking for opportunities to upskill my career</h4>
 
 Socials : [![Linkedin](https://img.shields.io/badge/-Yuvraj-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/07yuvraj/) [![Instagram](https://img.shields.io/badge/-Yuvraj-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/07yuvraj/) [![Facebook](https://img.shields.io/badge/-Yuvraj-3b5999?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100005298317127)
