@@ -19,6 +19,7 @@
 ### Languages and Tools:
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
+<code><img height="27" src="https://firebasestorage.googleapis.com/v0/b/clone1-slack.appspot.com/o/redux%20logo.png?alt=media&token=f03ce7b2-0e0c-4a0c-a81b-3bd2ca72bee4" alt="redux"></code>
 <code><img height="27" src="https://firebasestorage.googleapis.com/v0/b/clone1-slack.appspot.com/o/firebase_logo.png?alt=media&token=8a9920f7-c61f-4b23-be82-cd5d7e456cdb" alt="firebase"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
