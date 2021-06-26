@@ -12,9 +12,9 @@
 - 🛠 I’m currently deep diving in Web Technologies such as React, Firebase, Nodejs, Express, Mongodb, Javascript, etc and enhancing my skill in DSA.
 - 🚀 I am rated 3⭐ at [@CodeChef](https://www.codechef.com/users/yuvi7701)
 - 🔭 I am currently working as Web Developer Intern at Megamind Education and Welfare Pvt. Ltd.
-<!-- -  [@MyMegaminds](https://www.mymegaminds.com/). -->
+<!-- -  [@MyMegaminds](https://www.mymegaminds.com/).
 - 👯 I’m looking to collaborate for any  any project. 
-- 😄 Sports? I am a big cricket fan and an average volleyball player.
+- 😄 Sports? I am a big cricket fan and an average volleyball player. -->
 - 📝 Checkout my [Resume](https://drive.google.com/file/d/1OcX479RMUOsmx-kGN9uC9Tl1Ct0IW6YR/view?usp=sharing)
 
 ### Languages and Tools:
