@@ -15,7 +15,7 @@
 <!-- -  [@MyMegaminds](https://www.mymegaminds.com/).
 - 👯 I’m looking to collaborate for any  any project. 
 - 😄 Sports? I am a big cricket fan and an average volleyball player. -->
-- 📝 Checkout my [Resume](https://drive.google.com/file/d/1OcX479RMUOsmx-kGN9uC9Tl1Ct0IW6YR/view?usp=sharing)
+- 📝 Checkout my [Resume](https://drive.google.com/file/d/17KiSTERDYFVQN8PoknwtUYVwoloaeUdE/view?usp=sharing)
 
 ### Languages and Tools:
 
