@@ -11,11 +11,11 @@
 - 📫 You can reach me at thakuryuvraj98@gmail.com or through linkedin [@07yuvraj](https://www.linkedin.com/in/07yuvraj/)
 - 🛠 I’m currently deep diving in Web Technologies such as React, Firebase, Nodejs, Express, Mongodb, Javascript, etc and enhancing my skill in DSA.
 - 🚀 I am rated 3⭐ at [@CodeChef](https://www.codechef.com/users/yuvi7701)
-- 🔭 I am currently working as Web Developer Intern at Megamind Education and Welfare Pvt. Ltd.
+- 🔭 Worked as Web Developer Intern with Megamind Education and Welfare Pvt. Ltd.
 <!-- -  [@MyMegaminds](https://www.mymegaminds.com/).
 - 👯 I’m looking to collaborate for any  any project. 
 - 😄 Sports? I am a big cricket fan and an average volleyball player. -->
-- 📝 Checkout my [Resume](https://drive.google.com/file/d/17KiSTERDYFVQN8PoknwtUYVwoloaeUdE/view?usp=sharing)
+- 📝 Checkout my [Resume](https://drive.google.com/file/d/1OKinAxrFLyi4bIyrjGHlCJyf0WddF5tx/view?usp=sharing)
 
 ### Languages and Tools:
 
