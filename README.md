@@ -7,11 +7,12 @@
 
 ### About me
 
+- 🔭 Currently Working as SDE-1(Full stack) in [Admitkard](https://admitkard.com/)
 - 🎓 I’m currently pursuing my Bachelor's in Computer Science from University of Delhi(Ramanujan College) 🏛 .
 - 📫 You can reach me at thakuryuvraj98@gmail.com or through linkedin [07yuvraj](https://www.linkedin.com/in/07yuvraj/)
 - 🛠 I’m currently deep diving in Web Technologies such as React, Firebase, Nodejs, Express, Mongodb, Javascript, etc and enhancing my skill in DSA.
 - 🚀 I am rated 3⭐ at [CodeChef](https://www.codechef.com/users/yuvi7701)
-- 🔭 Currently Working as SDE Intern(Full stack) in [Admitkard](https://admitkard.com/)
+- 🔭 Worked as SDE Intern with Admitkard.
 - 🔭 Worked as ReactJs Developer Intern with GrowthGear.
 - 🔭 Worked as Web Developer Intern with Megamind Education and Welfare Pvt. Ltd.
 <!-- -  [@MyMegaminds](https://www.mymegaminds.com/).
