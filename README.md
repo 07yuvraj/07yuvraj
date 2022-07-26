@@ -1,5 +1,5 @@
 <h2 align='center'>Hi there 👋I am Yuvraj Singh Tomar✨</h2>
-<h3 align='center'>A Web Developer possessing profound knowledge and understanding of Data Structures and Algorithms looking for opportunities to upskill my career</h3>
+<h3 align='center'>A Sotfware Engineer possessing profound knowledge and understanding of Data Structures and Algorithms looking for opportunities to upskill my career</h3>
 
 ### My Socials: 
 
