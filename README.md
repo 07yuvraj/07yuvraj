@@ -7,18 +7,17 @@
 
 ### About me
 
-- 🔭 Currently Working as SDE-1(Full stack) in [Admitkard](https://admitkard.com/)
-- 🎓 I’m currently pursuing my Bachelor's in Computer Science from University of Delhi(Ramanujan College) 🏛 .
+- 🔭 Currently Working as Software Development Engineer-2(Full stack) in [Admitkard](https://admitkard.com/)
+- 🎓 I pursued my Bachelor's in Computer Science from University of Delhi(Ramanujan College) 🏛 .
 - 📫 You can reach me at thakuryuvraj98@gmail.com or through linkedin [07yuvraj](https://www.linkedin.com/in/07yuvraj/)
-- 🛠 I’m currently deep diving in Web Technologies such as React, Firebase, Nodejs, Express, Mongodb, Javascript, etc and enhancing my skill in DSA.
+- 🛠 I’m proficient in Technologies such as React, Firebase, Nodejs, Express, Mongodb, Javascript, DSA, AWS SQS, AWS SNS, AWS Lambdas and AWS S3.
 - 🚀 I am rated 3⭐ at [CodeChef](https://www.codechef.com/users/yuvi7701)
-- 🔭 Worked as SDE Intern with Admitkard.
 - 🔭 Worked as ReactJs Developer Intern with GrowthGear.
 - 🔭 Worked as Web Developer Intern with Megamind Education and Welfare Pvt. Ltd.
 <!-- -  [@MyMegaminds](https://www.mymegaminds.com/).
 - 👯 I’m looking to collaborate for any  any project. 
 - 😄 Sports? I am a big cricket fan and an average volleyball player. -->
-- 📝 Checkout my [Resume](https://drive.google.com/file/d/1plWOWK2V9lEvgPhKoG5BHlBIqXXMgQ6S/view?usp=sharing)
+- 📝 Checkout my [Resume](https://drive.google.com/file/d/1dPEDhR8_MdTFAnPi5MJAf9IvGTwiOV0a/view?usp=sharing)
 
 ### Languages and Tools:
 
