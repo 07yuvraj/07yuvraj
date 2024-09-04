@@ -7,16 +7,12 @@
 
 ### About me
 
-- 🔭 Currently Working as Software Development Engineer-2(Full stack) in [Admitkard](https://admitkard.com/)
-- 🎓 I pursued my Bachelor's in Computer Science from University of Delhi(Ramanujan College) 🏛 .
+- 🔭 Currently I am working as Software Development Engineer-2 in [HighLevel](https://www.gohighlevel.com/freetrial12) from October 2021 to April 2024.
+- 🔭 I worked as Software Development Engineer in [Admitkard](https://admitkard.com/) from October 2021 to April 2024.
+- 🎓 I pursued my Bachelor's in Computer Science from the University of Delhi(Ramanujan College) 🏛 .
 - 📫 You can reach me at thakuryuvraj98@gmail.com or through linkedin [07yuvraj](https://www.linkedin.com/in/07yuvraj/)
 - 🛠 I’m proficient in Technologies such as React, Firebase, Nodejs, Express, Mongodb, Javascript, DSA, AWS SQS, AWS SNS, AWS Lambdas and AWS S3.
-- 🚀 I am rated 3⭐ at [CodeChef](https://www.codechef.com/users/yuvi7701)
-- 🔭 Worked as ReactJs Developer Intern with GrowthGear.
-- 🔭 Worked as Web Developer Intern with Megamind Education and Welfare Pvt. Ltd.
-<!-- -  [@MyMegaminds](https://www.mymegaminds.com/).
-- 👯 I’m looking to collaborate for any  any project. 
-- 😄 Sports? I am a big cricket fan and an average volleyball player. -->
+- 🔭 I have done internships with Megamind Education and Welfare Pvt. Ltd and GrowthGear.
 - 📝 Checkout my [Resume](https://drive.google.com/file/d/1dPEDhR8_MdTFAnPi5MJAf9IvGTwiOV0a/view?usp=sharing)
 
 ### Languages and Tools:
