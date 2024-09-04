@@ -7,7 +7,7 @@
 
 ### About me
 
-- 🔭 Currently I am working as Software Development Engineer-2 in [HighLevel](https://www.gohighlevel.com/freetrial12) from October 2021 to April 2024.
+- 🔭 Currently I am working as Software Development Engineer-2 in [HighLevel](https://www.gohighlevel.com/freetrial12) from April 2024.
 - 🔭 I worked as Software Development Engineer in [Admitkard](https://admitkard.com/) from October 2021 to April 2024.
 - 🎓 I pursued my Bachelor's in Computer Science from the University of Delhi(Ramanujan College) 🏛 .
 - 📫 You can reach me at thakuryuvraj98@gmail.com or through linkedin [07yuvraj](https://www.linkedin.com/in/07yuvraj/)
